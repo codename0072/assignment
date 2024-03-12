@@ -1,4 +1,3 @@
-//테스트
 class Calculator {
     func add(number: Int, number2: Int) -> Int {
         return number + number2
